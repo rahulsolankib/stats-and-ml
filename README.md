@@ -4,7 +4,7 @@ Welcome to my learning repository for statistics and machine learning. This repo
 
 ## What’s inside
 
-- `Standard Normal Distribution/` – A study folder dedicated to the standard normal distribution, including an interactive notebook and notes.
+- A study folder dedicated to the Stats and ML concepts, including an interactive notebook and notes.
 - `README.md` – This overview of the repo and its purpose.
 
 ## Goals
